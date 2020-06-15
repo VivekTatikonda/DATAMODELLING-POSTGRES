@@ -1,5 +1,5 @@
 ### Purpose
-The purpose is this database helps in keeping the keeping the files in a systematic manner and managing large amount of info in small time. From this the Analytics team can run reports and perform analysis for growth of the company.
+The purpose is this database helps in keeping the files in a systematic manner and managing large amount of info in small time. From this the Analytics team can run reports and perform analysis for growth of the company.
 
 ### Datasets
 1. Song Dataset - Complete details and metadata about the song.
